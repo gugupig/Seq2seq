@@ -1,1 +1,1 @@
-# Seq2seq
+Seq2seq word generation
